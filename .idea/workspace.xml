@@ -1,21 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectId" id="1VdJsnOf6JxSRm5cMIgOIeQG5tf" />
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="nodejs_interpreter_path" value="node" />
+  <component name="ChangeListManager">
+    <list default="true" id="e8d010fb-a54d-4de3-8fd9-0a792e024bd4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/chevron-thin-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/hotel-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/hotel-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/hotel-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/sprite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/user-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/user-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/user-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/user-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/user-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/user-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/user.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/sass/_base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/sass/_components.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/sass/_layout.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VdJsnOf6JxSRm5cMIgOIeQG5tf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/statics" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/statics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8d010fb-a54d-4de3-8fd9-0a792e024bd4" name="Default Changelist" comment="" />
+      <created>1577577247505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577577247505</updated>
+      <workItem from="1577577249241" duration="1323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="412" y="320" key="EditFileWatcherDialog" timestamp="1577577453342">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="412" y="320" key="EditFileWatcherDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1577577453342" />
   </component>
 </project>
