@@ -203,6 +203,14 @@ code {
   padding: 1rem 0;
 }
 
+.gallery {
+  display: flex;
+}
+.gallery__photo {
+  width: 100%;
+  display: block;
+}
+
 .container {
   max-width: 120rem;
   margin: 8rem auto;
@@ -234,7 +242,6 @@ code {
 }
 
 .hotel-view {
-  background-color: hotpink;
   height: 80rem;
   flex: 1;
 }
