@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8d010fb-a54d-4de3-8fd9-0a792e024bd4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Detail.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Overview.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Overview.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Content.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Content.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/statics/sass/_components.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/statics/sass/_components.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/statics/sass/_layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/statics/sass/_layout.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577577247505</updated>
       <workItem from="1577577249241" duration="5623000" />
-      <workItem from="1577622648587" duration="10192000" />
+      <workItem from="1577622648587" duration="17956000" />
     </task>
     <servers />
   </component>
