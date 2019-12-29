@@ -1,12 +1,13 @@
 import React from "react";
 import SideBar from "./SideBar";
+import Gallery from "./Gallery";
 
 const Content = ()=>{
     return (
         <div className="content">
             <SideBar/>
             <main className={"hotel-view"}>
-                Hotel View
+                <Gallery/>
             </main>
         </div>
     )

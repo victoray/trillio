@@ -28,7 +28,7 @@ const Header = ()=> {
                     <svg className={"nav__icon"}>
                         <use xlinkHref={`${sprite}#icon-chat`}/>
                     </svg>
-                    <span className="nav__notification">7</span>
+                    <span className="nav__notification">17</span>
                 </div>
                 <div className="nav__user">
                     <img src={userImage} alt="" className="nav__user-photo"/>

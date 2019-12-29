@@ -2,25 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8d010fb-a54d-4de3-8fd9-0a792e024bd4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Content.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SideBar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/SVG/aircraft-take-off.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/SVG/bookmark.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/SVG/chat.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/SVG/chevron-thin-right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/SVG/home.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/SVG/key.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/SVG/location-pin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/SVG/magnifying-glass.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/SVG/map.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/SVG/star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Gallery.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Content.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Content.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SideBar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SideBar.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/statics/img/sprite.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/statics/img/sprite.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/statics/sass/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/statics/sass/_base.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/statics/sass/_components.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/statics/sass/_components.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/statics/sass/_layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/statics/sass/_layout.scss" afterDir="false" />
     </list>
@@ -106,6 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577577247505</updated>
       <workItem from="1577577249241" duration="5623000" />
+      <workItem from="1577622648587" duration="4737000" />
     </task>
     <servers />
   </component>
@@ -120,9 +108,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="412" y="320" key="EditFileWatcherDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1577577453342" />
-    <state x="341" y="164" key="SettingsEditor" timestamp="1577582633693">
+    <state x="341" y="164" key="SettingsEditor" timestamp="1577628030419">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="341" y="164" key="SettingsEditor/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1577582633693" />
+    <state x="341" y="164" key="SettingsEditor/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1577628030419" />
   </component>
 </project>
