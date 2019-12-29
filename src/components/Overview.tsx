@@ -5,9 +5,9 @@ import sprite from "../statics/img/sprite.svg";
 const Overview = ()=> {
     return (
         <div className="overview">
-            <div className="overview__heading">
-                Hotel 555
-            </div>
+            <h1 className="overview__heading">
+                Hotel LAS Palmas
+            </h1>
 
             <div className="overview__stars">
                 <svg className="overview__icon-star">
@@ -29,7 +29,7 @@ const Overview = ()=> {
 
             <div className="overview__location">
                 <svg className="overview__icon-location">
-                    <use xlinkHref={`${sprite}#icon-locaation-pin`}/>
+                    <use xlinkHref={`${sprite}#icon-location-pin`}/>
                 </svg>
                 <button className="btn-inline">
                     Albufeira, Portugal
