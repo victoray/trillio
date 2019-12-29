@@ -2,36 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8d010fb-a54d-4de3-8fd9-0a792e024bd4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/chevron-thin-right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/hotel-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/hotel-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/hotel-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/sprite.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/user-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/user-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/user-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/user-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/user-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/user-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/user.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/sass/_base.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/sass/_components.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/sass/_layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Content.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SideBar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/SVG/aircraft-take-off.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/SVG/bookmark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/SVG/chat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/SVG/chevron-thin-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/SVG/home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/SVG/key.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/SVG/location-pin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/SVG/magnifying-glass.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/SVG/map.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/img/SVG/star.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/statics/img/sprite.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/statics/img/sprite.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/statics/sass/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/statics/sass/_base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/statics/sass/_components.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/statics/sass/_components.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/statics/sass/_layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/statics/sass/_layout.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,16 +53,18 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/statics" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/statics/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/statics/img" />
       <recent name="$PROJECT_DIR$/src/statics" />
     </key>
   </component>
@@ -100,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577577247505</updated>
-      <workItem from="1577577249241" duration="1323000" />
+      <workItem from="1577577249241" duration="5623000" />
     </task>
     <servers />
   </component>
@@ -115,5 +120,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="412" y="320" key="EditFileWatcherDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1577577453342" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1577582633693">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1577582633693" />
   </component>
 </project>
